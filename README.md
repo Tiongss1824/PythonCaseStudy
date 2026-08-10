@@ -3,3 +3,5 @@ Before anything, please download both files (only 2 files added in this repo, wa
 If you use VS code to check files, please download Jupyter (microsoft) in Extensions Marketplace.
 
 That's it, happy checking.
+
+Update: I uploaded three png for results
